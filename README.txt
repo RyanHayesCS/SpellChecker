@@ -14,6 +14,6 @@
 	This edit distance is specified in the command line when the program is
 	first run.
 
-    For example, "./spellchecker 3" would run the program with a default edit
+	For example, "./spellchecker 3" would run the program with a default edit
 	distance of 3.
 */
